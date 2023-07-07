@@ -25,7 +25,7 @@ const Blog: React.FC = () => {
       <h1>Welcome to my Blog</h1>
       <img src="https://juniorit.ai/img/ai-no-sel-3.png" alt="Blog Photo" />
       <p>Visitor Count: {visitorCount}</p>
-      <button onClick={incrementCounter}>Increment Counter</button>
+      <button onClick={incrementCounter}>Increment Counter!!!!</button>
     </div>
   );
 };
